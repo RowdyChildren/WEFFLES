@@ -1,0 +1,35 @@
+{
+    "EventLogName": "ForwardedEvents",
+    "EventIdentifiers": [
+        4964,
+        4624,
+        4625,
+        4648,
+        1102,
+        7045,
+        4720,
+        106,
+        200,
+        4740
+    ],
+    "CustomEventLogFields": {
+        "TargetUserName": "TargetUserName",
+        "SamAccountName": "SamAccountName",
+        "LogonType": "LogonType",
+        "TargetDomainName": "TargetDomainName",
+        "SubjectUserName": "SubjectUserName",
+        "SubjectDomainName": "SubjectDomainName",
+        "IpAddress": "IpAddress",
+        "WorkstationName": "WorkstationName",
+        "ProcessName": "ProcessName",
+        "AuthenticationPackageName": "AuthenticationPackageName",
+        "Message": "Message",
+        "ActionName": "ActionName",
+        "ServiceName": "ServiceName",
+        "ImagePath": "ImagePath",
+        "ServiceType": "ServiceType",
+        "StartType": "StartType",
+        "AccountName": "AccountName",
+        "Computer": "Computer"
+    }
+}
